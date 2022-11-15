@@ -11,6 +11,10 @@ namespace BusinessLayer
         {
             this.TeamID = teamID;
         }
+        private TeamLeader() : base()
+        {
+
+        }
 
         public int TeamID { get; set; }
     }

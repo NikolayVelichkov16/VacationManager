@@ -12,6 +12,10 @@ namespace BusinessLayer
             this.TeamID = teamID;
             this.Rank = rank;
         }
+        private Developer() : base()
+        {
+
+        }
         public int TeamID { get; set; }
         public int Rank { get; set; }
     }

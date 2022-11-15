@@ -6,10 +6,6 @@ namespace BusinessLayer
 {
     public class Worker
     {
-        private Worker()
-        {
-
-        }
         public string Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
@@ -31,7 +27,10 @@ namespace BusinessLayer
             this.Email = email;
             BDate();
         }
+        public Worker()
+        {
 
+        }
         private void BDate()
         {
             string egn = this.Id;

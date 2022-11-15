@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v3.1": {
       "DataLayer/1.0.0": {
         "dependencies": {
+          "BusinessLayer": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.10",
+          "Microsoft.EntityFrameworkCore.Design": "5.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.10"
         },
@@ -1081,6 +1083,11 @@
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
         }
+      },
+      "BusinessLayer/1.0.0": {
+        "runtime": {
+          "BusinessLayer.dll": {}
+        }
       }
     }
   },
@@ -1768,6 +1775,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

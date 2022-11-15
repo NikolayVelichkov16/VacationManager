@@ -6,3 +6,10 @@ D:\Programming\VacationManager\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.Assem
 D:\Programming\VacationManager\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
 D:\Programming\VacationManager\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
 D:\Programming\VacationManager\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
+D:\Programming\VacationManager\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Programming\VacationManager\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Programming\VacationManager\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Programming\VacationManager\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\Programming\VacationManager\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+D:\Programming\VacationManager\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\Programming\VacationManager\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb

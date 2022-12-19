@@ -1,0 +1,9 @@
+D:\Programming\VacationManager\PresentationLayerConsole\bin\Debug\netcoreapp3.1\PresentationLayerConsole.deps.json
+D:\Programming\VacationManager\PresentationLayerConsole\bin\Debug\netcoreapp3.1\PresentationLayerConsole.dll
+D:\Programming\VacationManager\PresentationLayerConsole\bin\Debug\netcoreapp3.1\PresentationLayerConsole.pdb
+D:\Programming\VacationManager\PresentationLayerConsole\obj\Debug\netcoreapp3.1\PresentationLayerConsole.csprojAssemblyReference.cache
+D:\Programming\VacationManager\PresentationLayerConsole\obj\Debug\netcoreapp3.1\PresentationLayerConsole.AssemblyInfoInputs.cache
+D:\Programming\VacationManager\PresentationLayerConsole\obj\Debug\netcoreapp3.1\PresentationLayerConsole.AssemblyInfo.cs
+D:\Programming\VacationManager\PresentationLayerConsole\obj\Debug\netcoreapp3.1\PresentationLayerConsole.csproj.CoreCompileInputs.cache
+D:\Programming\VacationManager\PresentationLayerConsole\obj\Debug\netcoreapp3.1\PresentationLayerConsole.dll
+D:\Programming\VacationManager\PresentationLayerConsole\obj\Debug\netcoreapp3.1\PresentationLayerConsole.pdb

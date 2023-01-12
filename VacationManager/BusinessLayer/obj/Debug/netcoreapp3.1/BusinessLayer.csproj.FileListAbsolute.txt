@@ -7,3 +7,12 @@ D:\Programming\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLay
 D:\Programming\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
 D:\Programming\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
 D:\Programming\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Programming\VacationManagerGit\VacationManager\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

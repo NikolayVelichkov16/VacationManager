@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\VacationManager\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "D:\\Programming\\VacationManagerGit\\VacationManager\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "D:\\Programming\\VacationManager\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "D:\\Programming\\VacationManagerGit\\VacationManager\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\VacationManager\\BusinessLayer\\obj\\",
+      "outputPath": "D:\\Programming\\VacationManagerGit\\VacationManager\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

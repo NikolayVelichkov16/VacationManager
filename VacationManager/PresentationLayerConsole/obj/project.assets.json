@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\VacationManager\\PresentationLayerConsole\\PresentationLayerConsole.csproj",
+      "projectUniqueName": "D:\\Programming\\VacationManagerGit\\VacationManager\\PresentationLayerConsole\\PresentationLayerConsole.csproj",
       "projectName": "PresentationLayerConsole",
-      "projectPath": "D:\\Programming\\VacationManager\\PresentationLayerConsole\\PresentationLayerConsole.csproj",
+      "projectPath": "D:\\Programming\\VacationManagerGit\\VacationManager\\PresentationLayerConsole\\PresentationLayerConsole.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\VacationManager\\PresentationLayerConsole\\obj\\",
+      "outputPath": "D:\\Programming\\VacationManagerGit\\VacationManager\\PresentationLayerConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

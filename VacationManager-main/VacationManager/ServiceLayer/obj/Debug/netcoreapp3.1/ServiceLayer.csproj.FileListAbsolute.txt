@@ -1,9 +1,0 @@
-D:\Programming\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
-D:\Programming\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
-D:\Programming\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
-D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
-D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
-D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
-D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
-D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
-D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb

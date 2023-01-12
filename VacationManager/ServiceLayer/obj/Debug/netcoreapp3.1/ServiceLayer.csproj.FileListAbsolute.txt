@@ -7,3 +7,17 @@ D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer
 D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
 D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
 D:\Programming\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+D:\Programming\VacationManagerGit\VacationManager\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb

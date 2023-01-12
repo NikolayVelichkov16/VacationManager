@@ -9,7 +9,8 @@ namespace DataLayer
     public class ProjectDBContext : DbContext
     {
         public ProjectDBContext() : base()
-        { 
+        {
+            this.Database.EnsureCreated();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

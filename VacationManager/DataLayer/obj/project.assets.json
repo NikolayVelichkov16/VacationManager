@@ -5820,11 +5820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\VacationManager\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "D:\\Programming\\VacationManagerGit\\VacationManager\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "D:\\Programming\\VacationManager\\DataLayer\\DataLayer.csproj",
+      "projectPath": "D:\\Programming\\VacationManagerGit\\VacationManager\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\VacationManager\\DataLayer\\obj\\",
+      "outputPath": "D:\\Programming\\VacationManagerGit\\VacationManager\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5840,8 +5840,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Programming\\VacationManager\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "D:\\Programming\\VacationManager\\BusinessLayer\\BusinessLayer.csproj"
+            "D:\\Programming\\VacationManagerGit\\VacationManager\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "D:\\Programming\\VacationManagerGit\\VacationManager\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }

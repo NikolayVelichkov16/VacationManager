@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CjpAB+0Vv1++s8WbeeG3yf0kVlUXy5aUw8V6XlJdkeBtsHcPYb2KHMXSNpP/gshZY+8YiU8QiwPpouP/lNT6+g==",
+  "dgSpecHash": "GvlLM9yecSHuRcD9pdho6Vxg+Ee4KCQr8UInY69nDks2k8FD7q0KIwVgzjc0CtljYt/uDG5+Z8yXO8Ac8XQH9Q==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\VacationManager\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "D:\\Programming\\VacationManagerGit\\VacationManager\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

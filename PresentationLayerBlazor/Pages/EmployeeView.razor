@@ -1,0 +1,37 @@
+﻿@inject NavigationManager _nav
+@page "/EmployeeView"
+
+<PageTitle>Employee View</PageTitle>
+
+<center><h1>Menu</h1></center>
+<table>
+    <tr>
+        <td width="33%">
+            <div class="card">
+                <img src="Images/11.png" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>Take day off</b></h4>
+                    <p>Architect & Engineer</p>
+                    <center><button @onclick="@(()=>_nav.NavigateTo("/FormForHoliday"))">Fill the form</button></center>
+                </div>
+            </div>
+        </td>
+        <td width="33%">
+
+        </td>
+        <td width="33%">
+
+        </td>
+    </tr>
+</table>
+
+
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}

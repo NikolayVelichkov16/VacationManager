@@ -1,0 +1,48 @@
+﻿@page "/FormForHoliday"
+<center><h3>Form for applying for holiday </h3></center>
+@inject NavigationManager NavManager
+<center>
+    <form>
+        <h2>Form for Holiday</h2>
+        <input disabled="true" placeholder="User name"/>
+        <br />
+        <br />
+        <p>From:   <input type="date" /></p>
+        <p>To:   <input type="date" /></p>
+        <label><input type="radio" value="Free vacation" onclick="@Hide" name="group" /> Free vacation</label>
+        <br />
+        <label><input type="radio" value="Paid vacation" onclick="@Hide" name="group" /> Paid vacation</label>
+        <br />
+        <label><input type="radio" value="Illnes vacation" onclick="@Show" name="group" /> Illnes vacation</label>
+        <br />
+        <br />
+        
+        <input hidden="@IsShow" type="file" vis/>
+        <br />
+        <br />
+        <button  onclick="ResetForm">Submit</button>
+    </form>
+</center>
+
+@code {
+    private bool IsShow { get; set; } = true;
+    private void Show()
+    {
+        IsShow = false;
+    }
+    private void Hide()
+    {
+        IsShow = true;
+
+    }
+    private void Refresh()
+    {
+        NavManager.NavigateTo("/FormForHoliday");
+    }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+    }
+    
+}

@@ -1,0 +1,36 @@
+﻿@page "/EmployeeTeam"
+<PageTitle>My team</PageTitle>
+<link rel="stylesheet" type="text/css" href="css/CardCSS.css" />
+<center><h4>@teamName</h4></center>
+<div class="card-container">
+
+    <div class="card">
+        <img src="Images/Avatar1.jpg" style="width:100%">
+        <div class="container">
+            <h4><b>John Doe</b></h4>
+            <p>Manager team</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="Images/Avatar2.png" style="width:100%">
+        <div class="container">
+            <h4><b>John Doe</b></h4>
+            <p>Visual designer</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="Images/Avatar3.webp.png" style="width:100%">
+        <div class="container">
+            <h4><b>Marta Diaz</b></h4>
+            <p>Art creater</p>
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    string teamName = "Team Design";
+}

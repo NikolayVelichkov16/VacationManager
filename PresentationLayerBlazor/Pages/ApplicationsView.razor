@@ -1,0 +1,38 @@
+﻿@page "/ApplicationsView"
+<h3>ApplicationsView</h3>
+
+<center>
+<table width="90%">
+    <tr>
+        <td>@username1</td>
+        <td>@team1</td>
+        <td>@datefrom1.ToShortDateString()</td>
+        <td>@dateto1.ToShortDateString()</td>
+        <td>@leaveType1</td>
+        <td></td>
+        <td><button>Allow</button>  <button>Disallow</button></td>
+    </tr>
+     <tr>
+        <td>@username2</td>
+        <td>@team2</td>
+        <td>@datefrom2.ToShortDateString()</td>
+        <td>@dateto2.ToShortDateString()</td>
+        <td>@leaveType2</td>
+        <td></td>
+        <td><button>Allow</button>  <button>Disallow</button></td>
+    </tr>
+</table>
+</center>
+@code {
+    string username1 = "Marta Diaz";
+    string team1 = "Design";
+    DateTime datefrom1 = new DateTime(2023, 03, 21);
+    DateTime dateto1 = new DateTime(2023, 03, 24);
+    string leaveType1= "paid leave";
+
+    string username2 = "John Brown";
+    string team2 = "Data base";
+    DateTime datefrom2 = new DateTime(2023, 03, 28);
+    DateTime dateto2 = new DateTime(2023, 03, 31);
+    string leaveType2 = "unpaid leave";
+}
